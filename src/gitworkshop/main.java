@@ -10,7 +10,7 @@ public class main {
 	        System.out.println("I would be happier if I could sleep the day away");
 	        System.out.println("moh git, moh problems");
 	        System.out.println("out of lame jokes");
-		
+		s
 	}
 
 }
