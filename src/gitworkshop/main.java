@@ -4,7 +4,7 @@ public class main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("first commit step 2");
+		System.out.println("I don't feel like doing this workshop but i have to because it is 5 percent of my grade");
 		
 	}
 
